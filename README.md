@@ -1,2 +1,2 @@
 # Eldon-Davis-Picou-Portflio
-This Portfolio shows some of the Data Analysis skills I have used at work and during professional development couses 
+This portfolio showcases data analytics projects that demonstrate my ability to transform raw data into actionable insights, support business decisions, and solve real-world problems.
